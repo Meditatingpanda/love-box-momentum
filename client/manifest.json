@@ -1,0 +1,9 @@
+{
+    "name": "love box",
+    "version": "1.0",
+    "description": "get connected with your love",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
